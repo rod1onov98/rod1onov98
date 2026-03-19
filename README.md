@@ -3,7 +3,7 @@
 # main
 Hello! I am software developer, reverse engineer.  
 
-## languages && tools
+## languages | tools
 - C++, C#, Python
 - IDA, Frida. 
 
