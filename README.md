@@ -4,7 +4,7 @@
 Hello! I am software developer, reverse engineer.  
 
 ## languages | tools
-- C++, C#, Python
+- C/C++, C#, Python, JavaScript, Lua.
 - IDA, Frida. 
 
 ## contacts
